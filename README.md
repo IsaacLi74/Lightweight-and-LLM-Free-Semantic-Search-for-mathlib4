@@ -21,16 +21,16 @@ This repo hosts the Colab-ready notebook **“Light-Weight Semantic Mathlib Sear
 
 Below are a few queries you can paste into the demo to see what it finds.
 
-- **"law of cosine"**  
+🔎 `law of cosine`
 
-- **"addition is commutative"**  
+🔎 `addition is commutative`
 
-- **"triangle inequality"**  
+🔎 `triangle inequality` 
 
-- **"the least factor of a number is a prime"**  
+🔎 `the least factor of a number is a prime`
 
-- `o+-p=o-p`  
+🔎 `o+-p=o-p`  
 
-- `i^2+j^2-2*i*j*cos` 
+🔎 `i^2+j^2-2*i*j*cos` 
 
-- `∀ a b, gcd a b = gcd b a`  
+🔎 `∀ a b, gcd a b = gcd b a`  
