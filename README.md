@@ -1,6 +1,6 @@
 # Lightweight Semantic Mathlib Search — Demo
 
-This repo hosts the Colab-ready notebook **“Light-Weight Semantic Mathlib Search DEMO (Hugging Face).ipynb”**, a small, reproducible demo for *lightweight, LLM-free* semantic search over Lean’s mathlib.
+This repo hosts the Colab-ready notebook **“Light-Weight Semantic Mathlib Search DEMO.ipynb”**, a small, reproducible demo for *lightweight, LLM-free* semantic search over Lean’s mathlib.
 
 - **Adapter & assets:** [Isaac74/qwen3-0.6b-lightweight-semantic-mathlib-search-adapter](https://huggingface.co/Isaac74/qwen3-0.6b-lightweight-semantic-mathlib-search-adapter)
 - **Base encoder:** `Qwen/Qwen3-Embedding-0.6B` + LoRA (PEFT)
