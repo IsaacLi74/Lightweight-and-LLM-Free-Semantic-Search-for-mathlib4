@@ -16,3 +16,21 @@ This repo hosts the Colab-ready notebook **“Light-Weight Semantic Mathlib Sear
 2. **Upload** the notebook: `Light-Weight Semantic Mathlib Search DEMO.ipynb`.
 3. Click **Run all**. No extra setup is required, the notebook pulls the adapter and FAISS assets from the HF repo above.
 4. On **Colab Free (CPU-only, low RAM)**, the demo uses **~7GB RAM** and delivers **~0.5s/query** interactive search latency.
+
+## Examples
+
+Below are a few queries you can paste into the demo to see what it finds.
+
+- **"law of cosine"**  
+
+- **"addition is commutative"**  
+
+- **"triangle inequality"**  
+
+- **"the least factor of a number is a prime"**  
+
+- `o+-p=o-p`  
+
+- `i^2+j^2-2*i*j*cos` 
+
+- `∀ a b, gcd a b = gcd b a`  
