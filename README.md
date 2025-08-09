@@ -6,7 +6,7 @@ This repo hosts the Colab-ready notebook **“Light-Weight Semantic Mathlib Sear
 - **Base encoder:** `Qwen/Qwen3-Embedding-0.6B` + LoRA (PEFT)
 - **Data:** ~180k theorems via **LeanDojo** from **Lean 4.20.1** (minor gaps vs. full mathlib)
 - **Index:** FAISS HNSW
-- **Query types:** supports **natural language** and **formula** queries (can mix), **not** LaTeX-aware (LaTeX won’t match)
+- **Query types:** supports **natural language** and **formula** queries (can mix), **do not** supports LaTeX queries
 
 > Part of AITP 2025 submission: *“Towards Lightweight and LLM-Free Semantic Search for mathlib4”*
 
