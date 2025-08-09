@@ -8,7 +8,8 @@ This repo hosts the Colab-ready notebook **“Light-Weight Semantic Mathlib Sear
 - **Index:** FAISS HNSW
 - **Query types:** supports **natural language** and **formula** queries (can mix), **not** LaTeX-aware (LaTeX won’t match)
 
-> Part of AITP 2025 submission: *“Towards Lightweight and LLM-Free Semantic Search for mathlib4.”*
+> Part of AITP 2025 submission: *“Towards Lightweight and LLM-Free Semantic Search for mathlib4”*
+> The aim of the project is to build a laptop friendly semantic mathlib search engine.
 
 ## Quickstart (Colab)
 
