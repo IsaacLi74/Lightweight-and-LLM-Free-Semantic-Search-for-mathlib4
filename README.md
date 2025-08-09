@@ -1,4 +1,4 @@
-# Lightweight Semantic Mathlib Search — Demo (Notebook)
+# Lightweight Semantic Mathlib Search — Demo
 
 This repo hosts the Colab-ready notebook **“Light-Weight Semantic Mathlib Search DEMO (Hugging Face).ipynb”**, a small, reproducible demo for *lightweight, LLM-free* semantic search over Lean’s mathlib.
 
