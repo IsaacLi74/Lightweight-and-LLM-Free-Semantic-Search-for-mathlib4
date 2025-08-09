@@ -29,6 +29,8 @@ Below are a few queries you can paste into the demo to see what it finds.
 
 🔎 `the least factor of a number is a prime`
 
+🔎 `w+q=q+w for rationals`
+
 🔎 `o+-p=o-p`  
 
 🔎 `i^2+j^2-2*i*j*cos` 
