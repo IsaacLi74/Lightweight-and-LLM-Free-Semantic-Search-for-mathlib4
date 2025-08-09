@@ -15,4 +15,4 @@ This repo hosts the Colab-ready notebook **“Light-Weight Semantic Mathlib Sear
 1. Open **Google Colab**.
 2. **Upload** the notebook: `Light-Weight Semantic Mathlib Search DEMO.ipynb`.
 3. Click **Run all**. No extra setup is required, the notebook pulls the adapter and FAISS assets from the HF repo above.
-4. On **Colab Free (CPU-only, low RAM)**, the demo uses **7.2GB RAM** and delivers **~0.5s/query** interactive search latency.
+4. On **Colab Free (CPU-only, low RAM)**, the demo uses **7GB RAM** and delivers **~0.5s/query** interactive search latency.
